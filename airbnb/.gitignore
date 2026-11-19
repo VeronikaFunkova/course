@@ -1,0 +1,9 @@
+
+target/
+dbt_packages/
+logs/
+
+/profiles.yml
+set-env.ps1
+target-prod/
+.user.yml

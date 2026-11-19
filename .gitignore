@@ -1,0 +1,8 @@
+# Secrets - never commit
+set-env.ps1
+
+# dbt logs
+logs/
+
+# Python virtual environment
+.venv/
