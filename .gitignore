@@ -6,3 +6,6 @@ logs/
 
 # Python virtual environment
 .venv/
+
+# Secrets - bash version
+set-env.sh

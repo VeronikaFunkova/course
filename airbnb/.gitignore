@@ -5,5 +5,6 @@ logs/
 
 /profiles.yml
 set-env.ps1
+set-env.sh
 target-prod/
 .user.yml
